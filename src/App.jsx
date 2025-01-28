@@ -8,6 +8,7 @@ function App() {
     <>
       <Helmet>
         <title>Portifolio - Guilherme</title>
+      <meta name="google-site-verification" content="NmTMStmen1KCEUyIsY9h3KYUOvJoEYHaG2LW4qzNwpk" />
         <meta name="description" content="Olá, sou um desenvolvedor front-end apaixonado por criar soluções digitais que realmente fazem a diferença. Meu foco está em entregar interfaces intuitivas e funcionais, que ofereçam uma experiência incrível para os usuários.
 
 Tenho mais de 5 meses de experiência prática trabalhando com tecnologias como React.js, Styled Components, Context API, Axios e React Router DOM, sempre buscando criar interfaces dinâmicas e responsivas. Além disso, também tenho conhecimento em JavaScript, Node.js, APIs REST, PHP e MySQL, o que me permite colaborar em projetos full-stack de forma versátil.
