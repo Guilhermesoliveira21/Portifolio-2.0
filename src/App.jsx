@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Portifolio - Guilherme</title>
+        <title>Portifolio - Guilherme S.</title>
       <meta name="google-site-verification" content="NmTMStmen1KCEUyIsY9h3KYUOvJoEYHaG2LW4qzNwpk" />
         <meta name="description" content="Olá, sou um desenvolvedor front-end apaixonado por criar soluções digitais que realmente fazem a diferença. Meu foco está em entregar interfaces intuitivas e funcionais, que ofereçam uma experiência incrível para os usuários.
 
