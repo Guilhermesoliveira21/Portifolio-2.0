@@ -7,7 +7,7 @@ import home from "../assets/projects/home.png";
 import apiCrypto from "../assets/projects/api_crypto.png";
 import api_viagem from "../assets/projects/api_viagem.png";
 import autentica from "../assets/projects/autentica.png";
-import ecommerce from '../assets/projects/ecommerce.png'
+import ecommerce from '../assets/projects/e.png'
 
 export const ProjectsJson = [
     {
