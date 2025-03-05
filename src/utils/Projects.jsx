@@ -7,6 +7,7 @@ import home from "../assets/projects/home.png";
 import apiCrypto from "../assets/projects/api_crypto.png";
 import api_viagem from "../assets/projects/api_viagem.png";
 import autentica from "../assets/projects/autentica.png";
+import ecommerce from '../assets/projects/ecommerce.png'
 
 export const ProjectsJson = [
     {
@@ -26,11 +27,11 @@ export const ProjectsJson = [
       "type": "front-end"
     },
     {
-      "title": "Mercado livre",
-      "description": "Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite listar produtos na tela, buscar produtos consumindo a API do Mercado Livre, adicionar produtos e remover produtos do carrinho",
-      "image": shopp,
-      "link_github": "https://github.com/Guilhermesoliveira21/Mercado-Livre",
-      "link_deploy": "https://api-mercado-livre-chi.vercel.app/",
+      "title": "E-commerce Shop",
+      "description": "Este projeto é um e-commerce inspirado em grandes plataformas de marketplace, como Mercado Livre e OLX. O principal objetivo é proporcionar uma experiência completa, permitindo que os usuários pesquisem por qualquer tipo de item.",
+      "image": ecommerce,
+      "link_github": "https://github.com/Guilhermesoliveira21/ecommerce",
+      "link_deploy": "https://ecommerce-beige-rho-68.vercel.app/",
       "type": "front-end"
     },
     {
