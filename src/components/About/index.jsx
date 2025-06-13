@@ -34,7 +34,7 @@ export const About = () => {
                     </ContainerContentMenu>
                     <ContainerContentText>
                         <p>Olá, sou um desenvolvedor front-end apaixonado por criar soluções digitais que realmente fazem a diferença. Meu foco está em entregar interfaces intuitivas e funcionais, que ofereçam uma experiência incrível para os usuários.</p>
-                        <p>Tenho mais de 1 ano de experiência prática trabalhando com tecnologias como React.js, Styled Components, Context API, Axios e React Router DOM, sempre buscando criar interfaces dinâmicas e responsivas. Além disso, também tenho conhecimento em JavaScript, Node.js, APIs REST, PHP e MySQL, o que me permite colaborar em projetos full-stack de forma versátil.</p>
+                        <p>Tenho mais de 2 anos de experiência prática trabalhando com tecnologias como React.js, Styled Components, Context API, Axios e React Router DOM, sempre buscando criar interfaces dinâmicas e responsivas. Além disso, também tenho conhecimento em JavaScript, Node.js, APIs REST, PHP e MySQL, o que me permite colaborar em projetos full-stack de forma versátil.</p>
                         <p>Sou movido pela curiosidade e pela vontade de aprender, e acredito que cada novo desafio é uma oportunidade para crescer e criar algo especial. Se você valoriza soluções criativas e bem construídas, vamos conversar!</p>
                     </ContainerContentText>
                 </ContainerContent>
