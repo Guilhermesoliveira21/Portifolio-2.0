@@ -18,10 +18,13 @@ export const Experiencia = () => {
                 }
             ],
             'descricao': [
-                'Atuo na criação e manutenção de sites, sempre com o objetivo de entregar soluções funcionais e de alta qualidade que atendam às necessidades dos clientes. Sou responsável pelo desenvolvimento de funcionalidades robustas utilizando PHP e JavaScript, além de integrar APIs e sistemas back-end para garantir uma comunicação fluida e eficiente entre os diferentes componentes do sistema.',
-                'Sou responsável por diagnosticar e solucionar problemas técnicos, com o foco contínuo em aprimorar a experiência do usuário e a performance das plataformas. A resolução ágil de desafios técnicos é essencial para garantir um serviço de qualidade e sem falhas.',
-                'Por fim, possuo 6 meses de experiência prática com React.js, Styled Components, useContext, React Router Dom e outras tecnologias, o que me permite criar interfaces dinâmicas e de alto desempenho, sempre prezando pela qualidade e escalabilidade do código.'
-            ]
+  'Atuo na criação e manutenção de sites, sempre com o objetivo de entregar soluções funcionais e de alta qualidade que atendam às necessidades dos clientes. Sou responsável pelo desenvolvimento de funcionalidades robustas utilizando **Next.js, React.js e TypeScript**, além de integrar APIs e sistemas back-end para garantir uma comunicação fluida e eficiente entre os diferentes componentes do sistema.',
+  
+  'Sou responsável por diagnosticar e solucionar problemas técnicos, com foco contínuo em aprimorar a experiência do usuário e a performance das plataformas. A resolução ágil de desafios técnicos é essencial para garantir um serviço de qualidade, estável e sem falhas.',
+  
+  'Possuo experiência prática com **React.js, Next.js, Styled Components, React Query, useContext, React Router Dom e outras tecnologias**, o que me permite criar interfaces dinâmicas, performáticas e escaláveis, sempre prezando pela qualidade, manutenibilidade e escalabilidade do código.'
+]
+
         },
         {
             'name': 'Suzano S.A',
