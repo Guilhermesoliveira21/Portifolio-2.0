@@ -13,7 +13,7 @@ export const Experiencia = () => {
                     'cargo': 'Desenvolvedor Web - Junior'
                 },
                 {
-                    'fim': '05/06/2025',
+                    'fim': 'Atual',
                     'cargo': 'Desenvolvedor Web - Junior'
                 }
             ],
